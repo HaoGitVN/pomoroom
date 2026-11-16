@@ -9,11 +9,13 @@
 - **Pomodoro**: các gói có sẵn (Chuẩn 25/5, Deep Work 50/10, Học Nhanh 15/3, Demo 10s/10s) và **giờ tự chọn**. Cứ 4 phiên thì được nghỉ dài 15 phút. Hoàn thành phiên được thưởng Xu.
 - **Bảng việc cần làm 3D**: giấy nhớ dán trên bảng ghim, chọn việc ưu tiên cho phiên, hoàn thành việc được +10 Xu.
 - **Học tập sinh động**: trong phiên tập trung nhân vật luân phiên gõ phím, xem bài giảng video trên laptop (màn hình phát video giả lập), ghi chép bằng bút vào vở, đọc sách. Bàn học có sẵn vở, bút và sách.
-- **Laptop chi tiết**: bàn phím đầy đủ (53 phím, phím lún xuống khi gõ), touchpad, chuột không dây trên bàn di chuột. Màn hình chạy các trang học tập giả lập: soạn ghi chú gõ từng chữ, bài giảng video, và quiz ôn tập có con trỏ chuột di chuyển theo tay nhân vật.
-- **Bàn học nâng cấp** (lấy cảm hứng từ góc học tập thực tế): máy tính bảng hiển thị đồng hồ Pomodoro với chiếc cốc đầy dần, heo đất chấm bi (có xu rơi vào khi bạn kiếm Xu, bấm để chọc), tách trà bốc khói, hàng bút dạ quang cầu vồng, cốc bút, giấy note, chồng sách và giấy tờ có highlight.
+- **Laptop chi tiết**: bàn phím đầy đủ (53 phím, phím lún xuống khi gõ), touchpad, chuột không dây trên bàn di chuột. Màn hình chạy các trang học tập giả lập: soạn ghi chú gõ từng chữ, bài giảng video, và trang thư viện online với 24 tài liệu nhiều môn đại học: nhân vật kéo thanh cuộn tìm tài liệu, có xác suất tìm thấy rồi bấm Tải về và mở đọc.
+- **Bàn học nâng cấp** (lấy cảm hứng từ góc học tập thực tế): máy tính bảng hiển thị đồng hồ Pomodoro với chiếc cốc đầy dần, heo đất chấm bi (có xu rơi vào khi bạn kiếm Xu, bấm để chọc), hàng bút dạ quang cầu vồng, cốc bút, giấy note, chồng sách và giấy tờ có highlight.
 - **Phong cảnh Thành phố hoàng hôn**: đường chân trời có cửa sổ nhà sáng đèn nhấp nháy và xe chạy.
-- **Ăn uống & mèo**: nếu đã mua đồ uống/bánh, thỉnh thoảng nhân vật cầm ly lên nhấp một ngụm hoặc cắn bánh rồi đặt lại. Nếu đã mua mèo, mèo bước tới và nhân vật vuốt ve (khi làm việc lẫn khi giải lao).
-- **Cửa hàng**: mua cà phê, matcha, croissant, xương rồng, đèn lava, mèo ngủ rồi sắp xếp trên bàn. Dữ liệu lưu bằng `localStorage`.
+- **Thời đại AI**: màn hình laptop còn có trình soạn code kiểu VS Code (gõ code từng ký tự, chạy ra kết quả) và trợ lý AI dạng chat (gõ câu hỏi, gửi, câu trả lời hiện dần). Phím trên laptop lún theo từng nhịp gõ.
+- **Ghi chép tự nhiên**: cuốn tập đặt giữa bàn, ngay dưới laptop; một tay giữ trang, tay kia viết, thỉnh thoảng nhân vật ngước nhìn màn hình rồi ghi tiếp.
+- **Ăn uống**: nếu đã mua đồ uống/bánh, thỉnh thoảng nhân vật cầm ly lên nhấp một ngụm hoặc cắn bánh rồi đặt lại.
+- **Cửa hàng**: mua cà phê, matcha, croissant, xương rồng, đèn lava rồi sắp xếp trên bàn. Dữ liệu lưu bằng `localStorage`.
 - **Phong cảnh**: Nắng ban mai, Đêm mưa, Rừng thông tuyết rơi, Hoàng hôn tím.
 - **Âm thanh**: tiếng mưa, lửa trại, chuông (tạo bằng Web Audio API), 4 bài nhạc Lofi tự tạo, và trình phát YouTube. Âm lượng chỉnh riêng từng loại trong ⚙️ Cài đặt.
 - **Giao diện thích ứng** điện thoại dọc/ngang, chế độ toàn màn hình, tự ẩn giao diện sau 10 giây (chạm vào khoảng trống trong phòng để ẩn/hiện).
